@@ -1,11 +1,11 @@
-# Hey There! 👋
+# ¡Hola! 👋
 
-**I'm Diego Colipe** - Developer, Duoc UC student and founder of **AmuleyDev**.  
-Passionate about web development, backend development, cloud computing, DevOps and cybersecurity.
+**Soy Diego Colipe** - Desarrollador, estudiante de Ingeniería en Informática en Duoc UC y fundador de **AmuleyDev**.  
+Me apasiona el desarrollo web, el backend, la computación en la nube, DevOps y la ciberseguridad.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologías y herramientas
 
 <p align="left">
   <!-- Lenguajes y desarrollo web -->
@@ -13,13 +13,13 @@ Passionate about web development, backend development, cloud computing, DevOps a
 
   <br><br>
 
-  <!-- Backend, base de datos, cloud y DevOps -->
+  <!-- Base de datos, cloud, DevOps y herramientas -->
   <img src="https://skillicons.dev/icons?i=mysql,aws,docker,git,github,linux" />
 </p>
 
 ---
 
-### 🚀 Skills
+### 🚀 Conocimientos principales
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@ Passionate about web development, backend development, cloud computing, DevOps a
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Conecta conmigo
 
 <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,7 +55,7 @@ Passionate about web development, backend development, cloud computing, DevOps a
 ---
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Estadísticas de GitHub ⚡</summary>
 
   <br>
 
